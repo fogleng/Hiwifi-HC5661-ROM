@@ -1,4 +1,4 @@
-# Hiwifi-HC5611-ROM
+# Hiwifi-HC5661-ROM
 极路由hc5611相关固件
 
 ### 说明
