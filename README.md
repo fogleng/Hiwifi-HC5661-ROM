@@ -1,5 +1,5 @@
 # Hiwifi-HC5661-ROM
-极路由hc5611相关固件
+极路由hc5661相关固件
 
 ### 说明
 - official文件夹：官方相关固件，eeprom，u-boot, GPIO说明图等
